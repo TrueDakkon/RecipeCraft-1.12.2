@@ -1,0 +1,16 @@
+[
+{
+  "modid": "recipecraft",
+  "name": "Recipe Craft",
+  "description": "Adding recipes for pleasure and profit",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["The-Corrupted"],
+  "credits": "The Forge and FML guys.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
